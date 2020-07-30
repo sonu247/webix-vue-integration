@@ -16,8 +16,7 @@ export default {
     ui: {
       id: "pivot",
       view: "pivot",
-      height: 400,
-      width: 1000,
+      height: window.innerHeight,
       separateLabel: true,
       max: true,
       structure: {
